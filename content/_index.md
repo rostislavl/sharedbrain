@@ -6,6 +6,6 @@ enableToc: false
 
 [[ТРИЗ]]
 
-[Example Page](notes/example)
+[Example Page](SharedBrain/example.md)
 
 
