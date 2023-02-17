@@ -5,7 +5,7 @@ enableToc: false
 
 Hello world 2!
 
-[]
+[ТРИЗ](notes/)
 
 
 
