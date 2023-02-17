@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 
-[[ТРИЗ]]
+[ТРИЗ]
 
 [Example Page](notes/example.md)
 
