@@ -6,4 +6,6 @@ enableToc: false
 
 [[ТРИЗ]]
 
+[notes/example]
+
 
