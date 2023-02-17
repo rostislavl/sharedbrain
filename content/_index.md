@@ -4,7 +4,6 @@ enableToc: false
 ---
 
 
-[[]
-
+[[ТРИЗ]]
 
 
