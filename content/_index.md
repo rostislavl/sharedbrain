@@ -5,5 +5,7 @@ enableToc: false
 
 Hello world 2!
 
+[[TRIZ]]
+
 
 
