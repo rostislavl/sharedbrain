@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 
-[ТРИЗ](notes/ТРИЗ)
+[[]
 
 
 
