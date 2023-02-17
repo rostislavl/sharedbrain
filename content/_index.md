@@ -6,6 +6,6 @@ enableToc: false
 
 [[ТРИЗ]]
 
-[notes/example]
+[Example Page](notes/example)
 
 
