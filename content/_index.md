@@ -7,6 +7,6 @@ enableToc: false
 
 [Example Page](notes/example.md)
 
-[Мясо 🥩](notes/мясо.md)
+[Мясо 🥩](notes/meat.md)
 
 
