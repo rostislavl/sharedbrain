@@ -3,11 +3,11 @@ title: SharedBrain
 enableToc: false
 ---
 
-[ТРИЗ](notes/triz.md)
+[ТРИЗ](./notes/triz.md)
 
-[Алкоголь](n)
+[Алкоголь](./notes/alcohol.md)
 
-[Example Page](notes/example.md)
+[Example Page](./notes/example.md)
 
 
 
