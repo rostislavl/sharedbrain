@@ -5,7 +5,7 @@ enableToc: false
 
 [ТРИЗ](notes/triz.md)
 
-[Алкоголь](notes/alcojho)
+[Алкоголь](n)
 
 [Example Page](notes/example.md)
 
