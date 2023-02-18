@@ -8,6 +8,6 @@ enableToc: false
 
 [Example Page](notes/example.md)
 
-[Мясо 🥩](notes/мясо.md)
+[](notes/мясо.md)
 
 
