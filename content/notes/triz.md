@@ -71,6 +71,7 @@ aliases: ТРИЗ
  
 ## To Read
 - [Нетология: ТРИЗ как метод развития творческого мышления]([https://netology.ru/blog/06-2020-what-is-triz](https://netology.ru/blog/06-2020-what-is-triz))
+- [https://habr.com/ru/post/654261/](https://habr.com/ru/post/654261/)
 
 ## Материалы для детей
 - Автор книг Кислов Александр, триз в форме рассказов и сказок, рассказывается о них в [этом видео на 21 минуте](https://youtu.be/1OLVsKu23gQ)
