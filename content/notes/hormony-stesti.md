@@ -1,4 +1,7 @@
 ---
 title: "Hormony stesti"
-aliases: Алкоголь
+aliases: "Hormony stesti"
 ---
+
+
+![[hormony-stesti.jpg]]

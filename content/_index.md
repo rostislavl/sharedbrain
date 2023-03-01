@@ -7,6 +7,8 @@ enableToc: false
 
 [Алкоголь](notes/alcohol.md)
 
+
+
 [Example Page](notes/example.md)
 
 
