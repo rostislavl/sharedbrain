@@ -1,6 +1,6 @@
 ---
 title: "Как хакнуть гормоны счастья"
-aliases: "Hormony stesti"
+aliases: "Как хакнуть гормоны счастья", "Hormony stesti"
 ---
 
 [[Brain]]
