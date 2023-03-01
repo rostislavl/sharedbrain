@@ -1,5 +1,5 @@
 ---
-title: "Hormony stesti"
+title: "Как хакнуть гормоны счастья"
 aliases: "Hormony stesti"
 ---
 
