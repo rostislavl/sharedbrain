@@ -7,7 +7,7 @@ enableToc: false
 
 [Алкоголь](notes/alcohol.md)
 
-[Как хакнуть гормоны счастья][[hormony-stesti]]
+[Как хакнуть гормоны счастья](notes/hormony-stesti.md)
 
 [Example Page](notes/example.md)
 
