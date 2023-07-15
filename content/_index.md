@@ -3,7 +3,7 @@ title: SharedBrain
 enableToc: false
 ---
 
-[Личный совет директоров](notes/Личный совет директоров.md)
+[Личный совет директоров](notes/sovet.md)
 
 [ТРИЗ](notes/triz.md)
 
