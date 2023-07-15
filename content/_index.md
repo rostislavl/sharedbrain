@@ -11,7 +11,6 @@ enableToc: false
 
 [Как хакнуть гормоны счастья](notes/hormony-stesti.md)
 
-[Example Page](notes/example.md)
 
 
 
