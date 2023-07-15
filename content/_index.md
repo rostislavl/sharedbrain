@@ -2,6 +2,7 @@
 title: SharedBrain
 enableToc: false
 ---
+[[Личный совет директоров]]
 
 [ТРИЗ](notes/triz.md)
 
