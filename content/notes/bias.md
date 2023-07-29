@@ -1,5 +1,6 @@
 ---
-title: "Example Page"
+title: Когнитивные искажения
+aliases: Мясо
 ---
 
 
