@@ -3,7 +3,7 @@ title: SharedBrain
 enableToc: false
 ---
 
-[
+[Когнитивные искажения](notes/bias.md)
 
 [Личный совет директоров](notes/sovet.md)
 
