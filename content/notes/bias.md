@@ -146,6 +146,7 @@ aliases: Bias
 
 
 
+[Личный совет директоров](notes/sovet.md)
 
 ## Source
 - [Почему предприниматели делают ошибки](https://rb.ru/opinion/cognitive-distortions/)
