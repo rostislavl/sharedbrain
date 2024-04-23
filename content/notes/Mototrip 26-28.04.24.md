@@ -1,12 +1,13 @@
 
 
 ## Куда
-- Поедем кусок трассы Trans Czech Trail
+
 
 ![map](../files/mototrip1.png)
 
+- Поедем кусок трассы Trans Czech Trail
 - Подробнее о трессе Trans Czech Trail https://motosvet.cz/testy/894-tct.html
-
+- Как это выгладит можно посмотреть на видео тут https://www.youtube.com/results?search_query=Trans+Czech+Trail
 ## Когда
 - пятница до обеда.
 - воскресенье вечер в праге
