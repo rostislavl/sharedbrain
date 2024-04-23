@@ -6,9 +6,6 @@ Date:: 2024-04-23
 Project:: 
 People:: [[Rostislav Levkovic|Rostik]]
 Summary::
-
-### Goals
-1. 
    
 ### Log
 - куда![[Pasted image 20240423120559.png]]
@@ -39,6 +36,5 @@ Summary::
 			- рация
 
 
-
 ### Next Actions For Me
-- [x] 
+- [ ] 
