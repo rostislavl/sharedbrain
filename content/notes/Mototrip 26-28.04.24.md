@@ -1,6 +1,7 @@
 
 
 ## Куда
+- Поедем кусок трассы Trans Czech Trail
 
 ![map](../files/mototrip1.png)
 
