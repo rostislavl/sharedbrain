@@ -1,5 +1,5 @@
 ---
-title: Mototrip I 26-28.04.24
+title: "Mototrip 1 / 26-28.04.24 / Trans Czech Trail"
 ---
 
 ## Куда
