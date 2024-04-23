@@ -4,7 +4,7 @@ type: meeting
 
 Date:: 2024-04-23
 Project:: 
-People:: [[Rostislav Levkovic|Rostik]]
+People:: 
 Summary::
    
 ### Log
