@@ -3,6 +3,9 @@
 ## куда
 
 ![map](../files/mototrip1.png)
+
+- Подробнее о трессе Trans Czech Trail https://motosvet.cz/testy/894-tct.html
+
 ## когда
 - пятница до обеда.
 - воскресенье вечер в праге
