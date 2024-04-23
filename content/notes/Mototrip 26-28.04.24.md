@@ -31,3 +31,8 @@
 		- питание (каждый сам)
 	- nice to have
 		- рация
+
+
+## Полезные ссылки 
+- Подробнее о трессе Trans Czech Trail https://motosvet.cz/testy/894-tct.html
+- Карты в навигацию https://motosvet.cz/testy/894-tct.html?showall=&start=1
